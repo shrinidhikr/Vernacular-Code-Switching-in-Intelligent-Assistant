@@ -1,0 +1,426 @@
+,location
+0,mumbai
+1,delhi
+2,kolkata
+3,chennai
+4,bengaluru
+5,hyderabad
+6,ahmadabad
+7,haora
+8,pune
+9,surat
+10,mardanpur
+11,rampura
+12,lucknow
+13,nara
+14,patna
+15,indore
+16,vadodara
+17,bhopal
+18,coimbatore
+19,ludhiana
+20,Agra
+21,kalyan
+22,vishakhapatnam
+23,kochi
+24,nasik
+25,meerut
+26,faridabad
+27,varanasi
+28,ghaziabad
+29,Asansol
+30,jamshedpur
+31,madurai
+32,jabalpur
+33,rajkot
+34,dhanbad
+35,amritsar
+36,warangal
+37,allahabad
+38,srinagar
+39,aurangabad
+40,bhilai
+41,solapur
+42,ranchi
+43,jodhpur
+44,guwahati
+45,chandigarh
+46,gwalior
+47,thiruvananthapuram
+48,tiruchchirappalli
+49,hubli
+50,mysore
+51,raipur
+52,salem
+53,bhubaneshwar
+54,kota
+55,jhansi
+56,bareilly
+57,aligarh
+58,bhiwandi
+59,jammu
+60,moradabad
+61,mangalore
+62,kolhapur
+63,amravati
+64,dehra dun
+65,malegaon camp
+66,nellore
+67,gopalpur
+68,shimoga
+69,tiruppur
+70,raurkela
+71,nanded
+72,belgaum
+73,sangli
+74,chanda
+75,ajmer
+76,cuttack
+77,bikaner
+78,bhavnagar
+79,hisar
+80,bilaspur
+81,tirunelveli
+82,guntur
+83,shiliguri
+84,ujjain
+85,davangere
+86,akola
+87,saharanpur
+88,gulbarga
+89,bhatpara
+90,dhulia
+91,udaipur
+92,bellary
+93,tuticorin
+94,kurnool
+95,gaya
+96,sikar
+97,tumkur
+98,kollam
+99,ahmadnagar
+100,bhilwara
+101,nizamabad
+102,parbhani
+103,shillong
+104,latur
+105,rajapalaiyam
+106,bhagalpur
+107,muzaffarnagar
+108,muzaffarpur
+109,mathura
+110,patiala
+111,saugor
+112,brahmapur
+113,shahbazpur
+114,new delhi
+115,rohtak
+116,samlaipadar
+117,ratlam
+118,firozabad
+119,rajahmundry
+120,barddhaman
+121,bidar
+122,bamanpuri
+123,kakinada
+124,panipat
+125,khammam
+126,bhuj
+127,karimnagar
+128,tirupati
+129,hospet
+130,chikka mandya
+131,alwar
+132,aizawl
+133,bijapur
+134,imphal
+135,tharati etawah
+136,raichur
+137,pathankot
+138,chirala
+139,sonipat
+140,mirzapur
+141,hapur
+142,porbandar
+143,bharatpur
+144,puducherry
+145,karnal
+146,nagercoil
+147,thanjavur
+148,pali
+149,agartala
+150,ongole
+151,puri
+152,dindigul
+153,haldia
+154,bulandshahr
+155,purnea
+156,proddatur
+157,gurgaon
+158,khanapur
+159,machilipatnam
+160,bhiwani
+161,nandyal
+162,bhusaval
+163,bharauri
+164,tonk
+165,sirsa
+166,vizianagaram
+167,vellore
+168,alappuzha
+169,shimla
+170,hindupur
+171,baramula
+172,bakshpur
+173,dibrugarh
+174,saidapur
+175,navsari
+176,budaun
+177,cuddalore
+178,haripur
+179,krishnapuram
+180,fyzabad
+181,silchar
+182,ambala
+183,krishnanagar
+184,kolar
+185,kumbakonam
+186,tiruvannamalai
+187,pilibhit
+188,abohar
+189,port blair
+190,alipur duar
+191,hatisa
+192,valparai
+193,aurangabad
+194,kohima
+195,gangtok
+196,karur
+197,jorhat
+198,panaji
+199,saidpur
+200,tezpur
+201,itanagar
+202,daman
+203,silvassa
+204,diu
+205,dispur
+206,kavaratti
+207,calicut
+208,kagaznagar
+209,jaipur
+210,ghandinagar
+211,panchkula
+212,maharashtra
+213,delhi
+214,west bengal
+215,tamil nadu 
+216,karnataka
+217,andhra pradesh
+218,gujarat
+219,west bengal
+220,maharashtra
+221,gujarat
+222,uttar pradesh
+223,rajasthan
+224,uttar pradesh
+225,maharashtra
+226,bihar
+227,madhya pradesh
+228,gujarat
+229,madhya pradesh
+230,tamil nadu 
+231,punjab
+232,uttar pradesh
+233,maharashtra
+234,andhra pradesh
+235,kerala
+236,maharashtra
+237,uttar pradesh
+238,haryana
+239,uttar pradesh
+240,uttar pradesh
+241,west bengal
+242,jharkhand
+243,tamil nadu 
+244,madhya pradesh
+245,gujarat
+246,jharkhand
+247,punjab
+248,andhra pradesh
+249,uttar pradesh
+250,jammu and kashmir
+251,maharashtra
+252,chhattisgarh
+253,maharashtra
+254,jharkhand
+255,rajasthan
+256,assam
+257,chandigarh
+258,madhya pradesh
+259,kerala
+260,tamil nadu 
+261,karnataka
+262,karnataka
+263,chhattisgarh
+264,tamil nadu 
+265,odisha
+266,rajasthan
+267,uttar pradesh
+268,uttar pradesh
+269,uttar pradesh
+270,maharashtra
+271,jammu and kashmir
+272,uttar pradesh
+273,karnataka
+274,maharashtra
+275,maharashtra
+276,uttarakhand
+277,maharashtra
+278,andhra pradesh
+279,uttar pradesh
+280,karnataka
+281,tamil nadu 
+282,odisha
+283,maharashtra
+284,karnataka
+285,maharashtra
+286,maharashtra
+287,rajasthan
+288,odisha
+289,rajasthan
+290,gujarat
+291,haryana
+292,chhattisgarh
+293,tamil nadu 
+294,andhra pradesh
+295,west bengal
+296,madhya pradesh
+297,karnataka
+298,maharashtra
+299,uttar pradesh
+300,karnataka
+301,west bengal
+302,maharashtra
+303,rajasthan
+304,karnataka
+305,tamil nadu 
+306,andhra pradesh
+307,bihar
+308,rajasthan
+309,karnataka
+310,kerala
+311,maharashtra
+312,rajasthan
+313,andhra pradesh
+314,maharashtra
+315,meghalaya
+316,maharashtra
+317,tamil nadu 
+318,bihar
+319,uttar pradesh
+320,bihar
+321,uttar pradesh
+322,punjab
+323,madhya pradesh
+324,odisha
+325,uttar pradesh
+326,delhi
+327,haryana
+328,odisha
+329,madhya pradesh
+330,uttar pradesh
+331,andhra pradesh
+332,west bengal
+333,karnataka
+334,uttar pradesh
+335,andhra pradesh
+336,haryana
+337,andhra pradesh
+338,gujarat
+339,andhra pradesh
+340,andhra pradesh
+341,karnataka
+342,karnataka
+343,rajasthan
+344,mizoram
+345,karnataka
+346,manipur
+347,uttar pradesh
+348,karnataka
+349,punjab
+350,andhra pradesh
+351,haryana
+352,uttar pradesh
+353,uttar pradesh
+354,gujarat
+355,rajasthan
+356,puducherry
+357,haryana
+358,tamil nadu 
+359,tamil nadu 
+360,rajasthan
+361,tripura
+362,andhra pradesh
+363,odisha
+364,tamil nadu 
+365,west bengal
+366,uttar pradesh
+367,bihar
+368,andhra pradesh
+369,haryana
+370,maharashtra
+371,andhra pradesh
+372,haryana
+373,andhra pradesh
+374,maharashtra
+375,uttar pradesh
+376,rajasthan
+377,haryana
+378,andhra pradesh
+379,tamil nadu 
+380,kerala
+381,himachal pradesh
+382,andhra pradesh
+383,jammu and kashmir
+384,uttar pradesh
+385,assam
+386,uttar pradesh
+387,gujarat
+388,uttar pradesh
+389,tamil nadu 
+390,punjab
+391,tamil nadu 
+392,uttar pradesh
+393,assam
+394,haryana
+395,west bengal
+396,karnataka
+397,tamil nadu 
+398,tamil nadu 
+399,uttar pradesh
+400,punjab
+401,andaman and nicobar islands
+402,west bengal
+403,uttar pradesh
+404,tamil nadu 
+405,bihar
+406,nagaland
+407,sikkim
+408,tamil nadu 
+409,assam
+410,goa
+411,jammu and kashmir
+412,assam
+413,arunachal pradesh
+414,daman and diu
+415,dadra and nagar haveli
+416,daman and diu
+417,assam
+418,lakshadweep
+419,kerala
+420,andhra pradesh
+421,rajasthan
+422,gujarat
+423,haryana
+424,wazirabad
