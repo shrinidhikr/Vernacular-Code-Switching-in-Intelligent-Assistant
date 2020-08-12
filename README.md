@@ -1,0 +1,2 @@
+# Vernacular-Code-Switching-in-Intelligent-Assistant
+This project aims at providing facilitation to Indian multilingual speakers by handling vernacular code switched requests made by users while conversing with intelligent assistants and providing desired responses to the users. This project additionally throws insights on performance studies of cross-lingual models used in the pipeline. This project also includes generation of corpus of code-switched Hinglish and Kanglish frequently asked questions (FAQs) and its statistics.
