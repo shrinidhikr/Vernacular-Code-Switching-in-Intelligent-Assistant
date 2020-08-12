@@ -55,15 +55,14 @@ def error(update, context):
 
 
 def main():
+    TELEGRAM_TOKEN = "*****************"
     """Start the bot."""
     print("Starting the bot")
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    # 1296565123:AAEmIF0FulQ0-YWHP0T8JpG56rK23mg4Sf4 - trialbot
 
-    # updater = Updater("1107228750:AAGjyQqaNRFJbL4HjBoar5WklS9zXRvlj-s", use_context=True)
-    updater = Updater("1217886685:AAHD8Dr74VgQBfw6H7-yEd1Y_pGOkKmw26U", use_context=True)
+    updater = Updater(TELEGRAM_TOKEN, use_context=True)
     
     #print("Updater:   ",updater)
     # Get the dispatcher to register handlers
